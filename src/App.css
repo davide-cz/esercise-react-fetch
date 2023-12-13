@@ -1,0 +1,14 @@
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  max-width: 100%;
+}
+
+.nationFigure{
+  background-color: rgba(206, 245, 107, 0.904);
+  border:1px solid red;
+  padding: 1rem;
+}
+.cardsContainer{
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
